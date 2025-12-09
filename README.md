@@ -32,5 +32,6 @@ The project uses:
 ┣ 📜 requirements.txt  
 ┣ 📜 .gitignore  
 ┗ 🔒 `.env` (NOT included in GitHub)
+<img width="904" height="586" alt="Ekran Resmi 2025-12-09 15 30 28" src="https://github.com/user-attachments/assets/56d9ca11-0091-42f3-a423-fea61b3070ce" />
 
 
